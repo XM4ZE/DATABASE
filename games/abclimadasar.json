@@ -1,0 +1,65 @@
+[
+    {
+        "soal": "Benda : S",
+        "huruf": [
+        "S",
+        "E",
+        "D",
+        "O",
+        "T",
+        "A",
+        "N"
+        ],
+        "jawaban": "Sedotan"
+    },
+    {
+        "soal": "Benda : B",
+        "huruf": [
+        "B",
+        "A",
+        "J",
+        "U"
+        ],
+        "jawaban": "Baju"
+    },
+    {
+        "soal": "Benda : ",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    },
+    {
+        "soal": "",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    },
+    {
+        "soal": "",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    },
+    {
+        "soal": "",
+        "huruf": [
+        "",
+        "",
+        "",
+        ""
+        ],
+        "jawaban": ""
+    }
+]
