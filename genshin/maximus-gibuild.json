@@ -1,6 +1,8 @@
 {
   "albedo": {
-    "image": "https://telegra.ph/file/96db44282e692bd5c4ce3.jpg",
+    "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/560205495030382644/4e10479911522da7cefa58f2c5a67967a6b4a3fc2decdef2a43026208641092e.png",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194959333927165992/card.png?ex=65b23f9a&is=659fca9a&hm=c1f8e303c5438d54576cac3fe714dc28eae2059f183b98dee5b6970924c2a366&",
+    "tim": "https://cdn.discordapp.com/attachments/919605617902108742/995372200074956830/FXFnjtMWQAExqMC.jpg?ex=65abfa99&is=65998599&hm=4870fdc9305068d2711a98faa7ad0cfddb7553752ccac97f15b96249bb4f1384&",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/12/16/ccf7f7adf04d69fbe51eb88ecf4438a4_364070857621090471.mp3",
     "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
     "name": "Albedo",
@@ -22,7 +24,9 @@
     }
   },
   "alhaitham": {
-    "image": "https://telegra.ph/file/cbb7d363a5407a7808cce.jpg",
+    "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/560205495030382644/beb75276210a632ec390ea49fce1968085696767b76265fe940dd8a93321674b.png",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194961025250893844/card.png?ex=65b2412d&is=659fcc2d&hm=afe976d875d1c06e23540d9c397b77c7f35c72040493e5b37cd9c6d995155e8b&",
+    "tim": "https://telegra.ph/file/924feb7018bfb6589e448.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/01/11/c20bf233c409a33973fba2e081f954df_3186209960256254495.mp3",
     "description": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
     "name": "Alhaitham",
@@ -44,7 +48,9 @@
     }
   },
   "aloy": {
-    "image": "https://telegra.ph/file/a1f61205e31f2cfb1e0e1.jpg",
+    "image": "https://cdn-longterm.mee6.xyz/plugins/commands/images/560205495030382644/23343634561a36937acd92b643a0d9c23517bfe9ded917cdc39951a35d0fc19c.png",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194965481451442186/Character_Aloy.png?ex=65b24554&is=659fd054&hm=83dc1966bd5ef084aff914354414611669711eea77b4422fd41fb8376bc5c5b0&",
+    "tim": "https://telegra.ph/file/b6823f93b084e4e5d2b67.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/24/e2ae69079d3b3917d242b123eba732a4_5951606893988984609.mp3",
     "description": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.",
     "name": "Aloy",
@@ -66,7 +72,9 @@
     }
   },
   "amber": {
-    "image": "https://telegra.ph/file/dc8a0f1b9dd0934eb77ec.jpg",
+    "image": "https://raw.githubusercontent.com/FortOfFans/GI/main/sheets/Amber_Support.jpg",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194966288070615152/Character_Amber.png?ex=65b24614&is=659fd114&hm=ba854822bb908055523ccbec2730dfdcaed99b8fe6dc2bedbe4bd65b6bd46d9c&",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100914385463548.mp3",
     "description": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
     "name": "Amber",
@@ -111,6 +119,8 @@
 },
   "kamisatoAyaka": {
     "image": "https://cdn.discordapp.com/attachments/919605617902108742/1186386025996632224/AYAKASIPSIP.png?ex=65aebe96&is=659c4996&hm=6c55beabf07f08d2397aaae0cd748c9cf8d368d9e6e8176d879fd27d1e5255ab&",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194968380277534770/card.png?ex=65b24807&is=659fd307&hm=73398c26aa7c0b74d4e0751224d64740d560867db01255f41b01e077de4de985&",
+    "tim": "https://telegra.ph/file/b09d8daf72d5041895fbb.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/15/00eec241c95002cd8c57ce920f5b98e8_6639265316892732065.mp3",
     "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
     "name": "Kamisato Ayaka",
@@ -132,7 +142,9 @@
     }
   },
   "kamisatoAyato": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/ayato.png?raw=true",
+    "image": "https://raw.githubusercontent.com/FortOfFans/GI/main/sheets/Kamisato%20Ayato_Main%20DPS.jpg",
+    "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194970383561015306/card.png?ex=65b249e4&is=659fd4e4&hm=be3e6cb3b1df33669715ae6d91959bbff3fced7d3b636fafa441241023902eb7&",
+    "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1178096676628611092/AYATOTEAMGUIDE.png?ex=65ac4607&is=6599d107&hm=6a2c3f839608e92e2487064e9f2706e211fecdd84ee4c8f311442ddc745d96ba&",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/03/22/ac2b1d6ebb74148a1ceaee34a47a07ce_3933923855174033942.mp3",
     "description": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
     "name": "Kamisato Ayato",
@@ -155,6 +167,8 @@
   },
   "baizhu": {
     "image": "https://telegra.ph/file/969765529b822919c73ca.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/03/27/3165c230833354cab69f5b767b462bfc_3806736583775814114.mp3",
     "description": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
     "name": "Baizhu",
@@ -177,6 +191,8 @@
   },
   "barbara": {
     "image": "https://telegra.ph/file/cd5542c50732b2ef44623.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100912322634962.mp3",
     "description": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
     "name": "Barbara",
@@ -199,6 +215,8 @@
   },
   "beidou": {
     "image": "https://telegra.ph/file/59dcdf126b44de626fa25.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/02/27/8147fa13c0dcfb6e402967c55c2b9ecc_7343111540189611178.mp3",
     "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
     "name": "Beidou",
@@ -221,6 +239,8 @@
   },
   "bennett": {
     "image": "https://telegra.ph/file/42b353412304c71aaf10f.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/03/a12cbe45f81125f7dbf470f9bbe88abf_3205049333274535623.mp3",
     "description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
     "name": "Bennett",
@@ -243,6 +263,8 @@
   },
   "candace": {
     "image": "https://telegra.ph/file/f8b3eac9a03a4db0d18b3.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/22/b962b61f30a4eb8d034b408b86fbacaa_4844465311665240233.mp3",
     "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
     "name": "Candace",
@@ -265,6 +287,8 @@
   },
   "charlotte": {
     "image": "https://telegra.ph/file/81b2f4a5aaa25d7f03354.jpg",
+    "mate": "",
+    "tim": "",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113448/76fd35fee65725ca8cb338fe02027a87_4040255107351404693.mp3",
     "description": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
     "name": "Charlotte",
@@ -287,6 +311,8 @@
   },
 "chevreuse": {
   "image": "https://cdn.discordapp.com/attachments/919605617902108742/1183053715318517820/CHEVREUSESIPSIP.png?ex=65abd9a1&is=659964a1&hm=deb45049c4b2274a942d3f24afb767f43c18b3006e02a454d88bfbf8a35e4064&",
+  "mate": "",
+  "tim": "",
   "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113800/c7e88ab6c4409e68c182f5ed6099e96a_4748435202096261831.mp3",
   "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
   "name": "Chevreuse",
@@ -310,6 +336,8 @@
   "childe": {
     "image": "https://telegra.ph/file/74bac1793375109836d00.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/03/af757bf6a1f86c9727c503325b0c4698_2378720270954342934.mp3",
+    "mate": "",
+    "tim": "",
     "description": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
     "name": "Tartaglia",
     "title": "Childe",
@@ -332,6 +360,8 @@
   "chongyun": {
     "image": "https://telegra.ph/file/a17d57914c5f3d4fdcd97.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/02/602d5d7cbc2e93130a18188b4af7a51d_4081218662440864466.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
     "name": "Chongyun",
     "title": "Frozen Ardor",
@@ -354,6 +384,8 @@
   "collei": {
     "image": "https://telegra.ph/file/bf25bad3987fc4acbb2a3.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/22/3db9e5d34c072a1b7c43c1ae060a9eff_4994276194492685500.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
     "name": "Collei",
     "title": "Sprout of Rebirth",
@@ -376,6 +408,8 @@
   "cyno": {
     "image": "https://telegra.ph/file/f0be7caf3a6104deff8ca.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/21/38032c7c233cab5b34c0a9c1fa689eec_1627692487294193777.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
     "name": "Cyno",
     "title": "Judicator of Secrets",
@@ -398,6 +432,8 @@
   "dehya": {
     "image": "https://telegra.ph/file/9e2c94cf1fb2a68dce91c.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/16/d5a2d6d91669eab018cca5cdde0f28f9_5651507830582955428.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
     "name": "Dehya",
     "title": "Flame-Mane",
@@ -442,6 +478,8 @@
   "diluc": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/diluc.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100915051414419.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
     "name": "Diluc",
     "title": "Dark Side of Dawn",
@@ -464,6 +502,8 @@
   "diona": {
     "image": "https://telegra.ph/file/71a6c938754d651685b85.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/06/756621f17feb4bbe4eb5719f13d5c159_3371204395463020442.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
     "name": "Diona",
     "title": "Kätzlein Cocktail",
@@ -486,6 +526,8 @@
   "dori": {
     "image": "https://telegra.ph/file/a77610f728abacf6d34e7.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/30/06a9c6c73a62364d4f4197d3024f5ce6_2506738424078182566.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An elusive merchant who has a fondness for glittering Mora.",
     "name": "Dori",
     "title": "Treasure of Dream Garden",
@@ -508,6 +550,8 @@
   "duke": {
     "image": "https://telegra.ph/file/c0fcbbe42869d345c749b.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/22/88d16411e8637b52cb43948fb62f1e26_1061667661873779251.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
     "name": "Wriothesley",
     "title": "Emissary of Solitary Iniquity",
@@ -552,6 +596,8 @@
   "eula": {
     "image": "https://telegra.ph/file/be22dbb5d5848b4a87c63.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/05/10/e0161f110e4c7c2d817bd000b69ff3c0_368897700876015974.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
     "name": "Eula",
     "title": "Dance of the Shimmering Wave",
@@ -574,6 +620,8 @@
   "faruzan": {
     "image": "https://telegra.ph/file/d442987d1aa4f7ea969ce.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/12/01/c110ff47605bb3a7eb16f551ab2fc70e_3360777012671655267.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
     "name": "Faruzan",
     "title": "Enigmatic Machinist",
@@ -596,6 +644,8 @@
   "fischl": {
     "image": "https://raw.githubusercontent.com/ketchupmaze/GenshinChar/main/genshinbuild/fischl.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/2c536bd063a9f14c752c211704bfe6ae_6990353860087345405.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz.",
     "name": "Fischl",
     "title": "Prinzessin der Verurteilung!",
@@ -615,6 +665,8 @@
   "freminet": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/freminet.jpg?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/fd859d8b92ec3fd8096ca1137c07fdfa_8830619891179920779.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
     "name": "Freminet",
     "title": "Yearning for Unseen Depths",
@@ -637,6 +689,8 @@
   "furina": {
     "image": "https://cdn.discordapp.com/attachments/919605617902108742/1170142784238391306/FURINAONESHEET.png?ex=6557f763&is=65458263&hm=705569b1a91dba8c6f2eb71a52ec00c3af70319ac54e4b5e8fbaf359d4d61591&",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/853dfb3a0e3fcc3dd96288843119de07_4570378317595834942.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The absolute focus of the stage of judgment, until the final applause sounds.",
     "name": "Furina",
     "title": "Endless Solo of Solitude",
@@ -656,9 +710,35 @@
       "korean": "Kim Ha-young"
     }
   },
+  "gaming": {
+    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1197891713390346380/GamingGuide.png?ex=65cf5f98&is=65bcea98&hm=a51bd8a19d64a28fa639084f160469ce9adbfdeb5b71bb47a1fcece88d5dc045&",
+    "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119403/1d3f6e621a1c2fa2c7a83300add6ee93_5724208082623824518.mp3",
+    "mate": "https://cdn.discordapp.com/attachments/919605617902108742/1197891677667471491/GamingFarmingGuide.png?ex=65cf5f8f&is=65bcea8f&hm=943a5a25b95ab1f97489f21fda2692b83b623c22dd4ef48e2c67416ac403c2a3&",
+    "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1197891693274472638/GamingTeamGuide.png?ex=65cf5f93&is=65bcea93&hm=d72f4019bfbfead61ea3a06770ff953f0c0ce03074af70ceb26deaeb2d723949&",
+    "description": "A guard for the Sword and Strongbox Secure Transport Agency, Gaming is considered to be the best person in the agency to transport and protect goods, and is also the head of the Mighty Mythical Beasts dancing troupe.",
+    "name": "Gaming",
+    "title": "Leonine Vanguard",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "substat": "CRIT Rate & DMG",
+    "rarity": "⭐ 4",
+    "gender": "Male ( BOY )",
+    "birthday": "December 22",
+    "constellation": "Leo Expergiscens",
+    "association": "LIYUE",
+    "region": "Liyue",
+    "characters_voice": {
+      "english": "Caleb Yen",
+      "chinese": "Xie Ying (谢莹)",
+      "japanese": "Komatsu Shouhei (小松昌平)",
+      "korean": "Kim Yoon-ki (김윤기)"
+    }
+  },
   "ganyu": {
     "image": "https://telegra.ph/file/edc76a6a3446a39d442f0.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/01/04/3f86a0d295717787bc667f8c9bdf08fb_1803119177844401844.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
     "name": "Ganyu",
     "title": "Plenilune Gaze",
@@ -703,6 +783,8 @@
   "gorou": {
     "image": "https://telegra.ph/file/61264cb14b81af99691c8.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/06/ffbb3aa38dc6cbb0dc2906448ea5fd39_4358605768420873069.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
     "name": "Gorou",
     "title": "Canine Warrior",
@@ -725,6 +807,8 @@
   "heizou": {
     "image": "https://telegra.ph/file/ced51c9069bdf26cc4629.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/07/cd6e518bbecbb988f19bb2f72f9b9a2a_2381203154583528978.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
     "name": "Shikanoin Heizou",
     "title": "Analytical Harmony",
@@ -747,6 +831,8 @@
   "hutao": {
     "image": "https://telegra.ph/file/816e8691b58c7eb23d3ab.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/02/24/338b9ecdf100d646c9fd7bec0a1d011b_8571295826352667668.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
     "name": "Hu Tao",
     "title": "Fragrance in Thaw",
@@ -791,6 +877,8 @@
   "itto": {
     "image": "https://telegra.ph/file/a6037305ca091b9ccf40c.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/06/61a99fc2b021979ef8b871c6e5d95ed5_3047422790514876221.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
     "name": "Arataki Itto",
     "title": "Hanamizaka Heroics",
@@ -813,6 +901,8 @@
   "jean": {
     "image": "https://telegra.ph/file/e058659e3ad488dee9afe.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/d755b67bac85c1f72dca98c30c08972e_4988360399647226190.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
     "name": "Jean",
     "title": "Dandelion Knight",
@@ -835,6 +925,8 @@
   "kaeya": {
     "image": "https://telegra.ph/file/6b93cc018cf38e192a86e.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100910350020037.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
     "name": "Kaeya",
     "title": "Frostwind Swordsman",
@@ -857,6 +949,8 @@
   "kaveh": {
     "image": "https://telegra.ph/file/0c90918c70c4ba60e6372.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/03/27/cd0e7b35ef960fcc9fe0bd8ec3143b0e_225414720646043164.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
     "name": "Kaveh",
     "title": "Empyrean Reflection",
@@ -879,6 +973,8 @@
   "kazuha": {
     "image": "https://telegra.ph/file/c923c4ef1a0264f3211db.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/06/22/b08b2fb2429cfc5e7c4ecbe799cd91af_1630233163992269662.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
     "name": "Kaedehara Kazuha",
     "title": "Scarlet Leaves Pursue Wild Waves",
@@ -901,6 +997,8 @@
   "keqing": {
     "image": "https://telegra.ph/file/8655f6e98192e66fc9508.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/079d5b19ed55af90c2af745db8354176_270060025253172630.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
     "name": "Keqing",
     "title": "Driving Thunder",
@@ -923,6 +1021,8 @@
   "kirara": {
     "image": "https://telegra.ph/file/2bf7ab58074cda118af87.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/05/11/3df8e03b4f9fadf1d4bf2aa6ffa3c2b6_4618382671198573465.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.",
     "name": "Kirara",
     "title": "Cat Upon the Eaves",
@@ -945,6 +1045,8 @@
   "klee": {
     "image": "https://telegra.ph/file/3c48920393bab87681eca.jpg'",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/03/5c23edd1addc595091696af98f1fa9b5_1883663104510035371.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
     "name": "Klee",
     "title": "Fleeing Sunlight",
@@ -967,6 +1069,8 @@
   "kokomi": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/kokomi.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/09/09/d93c128ddca45384390b9f15d09b24b7_2084139676702932458.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
     "name": "Sangonomiya Kokomi",
     "title": "Pearl of Wisdom",
@@ -989,6 +1093,8 @@
   "sara": {
     "image": "https://telegra.ph/file/03531dd26d3259844bd85.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/18/76cb313990d85d2321a2433105985f6d_2561393966500234042.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
     "name": "Kujou Sara",
     "title": "Crowfeather Kaburaya",
@@ -1011,6 +1117,8 @@
   "kuki": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/kuki.jpg?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/06/16/844141a42da03d025532e2acb6754731_3723953092046199833.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The capable and reliable Arataki Gang deputy leader. Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
     "name": "Kuki Shinobu",
     "title": "Mender of Tribulations",
@@ -1033,6 +1141,8 @@
   "layla": {
     "image": "https://telegra.ph/file/f71afb7ef498b68631d1b.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/11/07/036a6ac338126dbfe59bc7bf78bc2336_880088226584117972.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
     "name": "Layla",
     "title": "Fantastical Evening Star",
@@ -1055,6 +1165,8 @@
   "lisa": {
     "image": "https://telegra.ph/file/04221eeec372b268963b4.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100915134493475.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
     "name": "Lisa",
     "title": "Witch of Purple Rose",
@@ -1077,6 +1189,8 @@
   "lynette": {
     "image": "https://telegra.ph/file/2c7b4849723cb647d4f24.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/73d2511d6b077d351ed30a6accd85f55_5866349071008911126.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
     "name": "Lynette",
     "title": "Elegance in the Shadows",
@@ -1099,6 +1213,8 @@
   "lyney": {
     "image": "https://telegra.ph/file/a913d9495cf6e1fe84f5f.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/b6aabb522438dfb65aa8021fb79444b4_4413342217576896471.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
     "name": "Lyney",
     "title": "Spectacle of Phantasmagoria",
@@ -1121,6 +1237,8 @@
   "mika": {
     "image": "https://telegra.ph/file/80ea37bc9505bcfc75910.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/16/1c2143d1317514a8d32101d3c1d8030d_8973890000288566498.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
     "name": "Mika",
     "title": "Coordinates of Clear Frost",
@@ -1143,6 +1261,8 @@
   "mona": {
     "image": "https://telegra.ph/file/725aa1bc62034bb1b9c14.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/d79172f76f1db358636bcdf171336b8c_2041972378963683842.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
     "name": "Mona",
     "title": "Astral Reflection",
@@ -1165,6 +1285,8 @@
   "nahida": {
     "image": "https://telegra.ph/file/954dadc39fa6528104e46.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/10/24/eb4c0258435ff86ce4425cc60ec2193a_2102608887695909153.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
     "name": "Nahida",
     "title": "Physic of Purity",
@@ -1187,6 +1309,8 @@
   "navia": {
   "image": "https://cdn.discordapp.com/attachments/919605617902108742/1182670178870362254/NAVIAONESHEET.png?ex=65a139ef&is=658ec4ef&hm=d224e7280b5c2f07658cca90cf3835bc518e22afeb0ea26314a09ea52e8d0f1a&",
   "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113799/d31df39f7be156e56d53b92e3ae6a78f_5666948741822247393.mp3",
+  "mate": "",
+  "tim": "",
   "description": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
   "name": "Navia",
   "title": "Helm of the Radiant Rose",
@@ -1209,6 +1333,8 @@
   "neuvillette": {
     "image": "https://telegra.ph/file/8257946a4c4404a757115.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/21/4e52f6b2332c2ca1ea638148a8703865_745344279131051500.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
     "name": "Neuvillette",
     "title": "Ordainer of Inexorable Judgment",
@@ -1231,6 +1357,8 @@
   "nilou": {
     "image": "https://telegra.ph/file/c9c2ac669e74158d0e356.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/28/f7f4f80a38d5b1b7f46248e5a9695f34_4803705810652768542.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
     "name": "Nilou",
     "title": "Dance of Lotuslight",
@@ -1253,6 +1381,8 @@
   "ningguang": {
     "image": "https://telegra.ph/file/a6924b113c9def79e97de.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/03/05/17f08f78af0f2ea2684de750ad6cba0b_5678544076476104598.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
     "name": "Ningguang",
     "title": "Eclipsing Star",
@@ -1275,6 +1405,8 @@
   "noelle": {
     "image": "https://telegra.ph/file/fd5f9805e338e0d9bf8c2.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/eeb8ed57db8e559959926c6fda18f9f7_939507911085059751.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
     "name": "Noelle",
     "title": "Chivalric Blossom",
@@ -1297,6 +1429,8 @@
   "qiqi": {
     "image": "https://telegra.ph/file/a206d30bdd5b3fa2eb4fd.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/eb39c364e60e8be7493cd5ebcbd498f1_1690512059894578712.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
     "name": "Qiqi",
     "title": "Icy Resurrection",
@@ -1319,6 +1453,8 @@
   "raiden": {
     "image": "https://telegra.ph/file/8794763f94775b4432ad6.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/18/d8c33103e302c3822b001ed0b2bbdbd0_6913641200556529114.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
     "name": "Raiden Shogun",
     "title": "Plane of Euthymia",
@@ -1341,6 +1477,8 @@
   "razor": {
     "image": "https://telegra.ph/file/9dd088e9d90890f897739.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191018/2019101811584680597.wav",
+    "mate": "",
+    "tim": "",
     "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
     "name": "Razor",
     "title": "Wolf Boy",
@@ -1363,6 +1501,8 @@
   "rosaria": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/rosaria.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/03/25/5906b4475ddbfd315a0b4dfc27377595_8910608856957911360.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
     "name": "Rosaria",
     "title": "Thorny Benevolence",
@@ -1385,6 +1525,8 @@
   "sayu": {
     "image": "https://telegra.ph/file/acd598a3b98b61cb135a0.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/30/1cc43cfb98da910e5e687b7af5f67f21_9034681646771877173.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
     "name": "Sayu",
     "title": "Mujina Ninja",
@@ -1407,6 +1549,8 @@
   "shenhe": {
     "image": "https://telegra.ph/file/14321e839387b5ff37146.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/26/74806a55052e2a4507e666d66039ca73_131576019089999989.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
     "name": "Shenhe",
     "title": "Lonesome Transcendence",
@@ -1429,6 +1573,8 @@
   "sucrose": {
     "image": "https://telegra.ph/file/5e68d9a0cd1c146aae56b.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/52de5562b5cb8fa8a7fd4efb499685dd_3497184957323650196.mp3",
+    "mate": "",
+    "tim": "",
     "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
     "name": "Sucrose",
     "title": "Harmless Sweetie",
@@ -1451,6 +1597,8 @@
   "thoma": {
     "image": "https://telegra.ph/file/f47e27e0df4a3950bb9c8.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/10/21/535ac1e015ad4959e2123db743ae7364_2460137664808385324.mp3",
+    "mate": "",
+    "tim": "",
     "description": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
     "name": "Thoma",
     "title": "Protector From Afar",
@@ -1473,6 +1621,8 @@
   "tighnari": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/tighnari.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/21/ba87f7994707f47afa8afaaea4856f74_3113664698781347638.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
     "name": "Tighnari",
     "title": "Verdant Strider",
@@ -1495,6 +1645,8 @@
   "venti": {
     "image": "https://telegra.ph/file/179e971df71a3e2e9deeb.jpg",
     "voice": "https://webstatic.mihayo.com/upload/op-public/2019/11/22/664f288815a1c683c30da078534b5cac_4353095660913502837.mp3",
+    "mate": "",
+    "tim": "",
     "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
     "name": "Venti",
     "title": "Windborne Bard",
@@ -1517,6 +1669,8 @@
   "wanderer": {
     "image": "https://telegra.ph/file/e426f8ee99431d0b7a242.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/11/28/deaee4e6f00c5f1b1e0f258ce65b27ce_6912363040173116689.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
     "name": "Wanderer",
     "title": "Eons Adrift",
@@ -1539,6 +1693,8 @@
   "xiangling": {
     "image": "https://telegra.ph/file/cf5976e0e014f4ca49170.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/03/17/394996dd7a5dc2dff4e1db07515da098_7982328413479946925.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
     "name": "Xiangling",
     "title": "Exquisite Delicacy",
@@ -1558,9 +1714,35 @@
       "korean": "Yoon Ah-young"
     }
   },
+  "xianyun": {
+    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1197891839315935364/XianyunGuide.png?ex=65cf5fb6&is=65bceab6&hm=ed07ac0e4549e67e3fc47d451a334c5389df5cf911e014f064d82200e0a8bc4f&",
+    "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119401/f6e82af4036aff64915e1dda0449bee9_4856941708376475161.mp3",
+    "mate": "https://cdn.discordapp.com/attachments/919605617902108742/1197891793010835589/XianyunFarmingGuide.png?ex=65cf5fab&is=65bceaab&hm=0528d8b3f5203a492f27bd22fc56c458f615af476d6dcd0c6a241a06743e4796&",
+    "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1197891817488785488/XianyunTeamGuide.png?ex=65cf5fb1&is=65bceab1&hm=8ea1721743ee69a1696f0a33937ea7e1253ac284c4b5a6fea9b929d41f77c3ea&",
+    "description": "A new resident in the city, you say? Oh, it's Cloud— I mean, Xianyun. Don't be fooled by her usual manner... She's someone you can truly rely on when the going gets tough. If you ever find yourself in trouble, just tell her — I'm sure she'd be willing to help.",
+    "name": "Xianyun",
+    "title": "Passerine Herald",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "substat": "Energy Recharge",
+    "rarity": "⭐ 5",
+    "gender": "Female ( LADY )",
+    "birthday": "April 11",
+    "constellation": "Grus Serena",
+    "association": "LIYUE",
+    "region": "Liyue",
+    "characters_voice": {
+      "english": "Stephanie Panisello",
+      "chinese": "Qin Ziyi (秦紫翼)",
+      "japanese": "Nakatomi Mana (中臣 真菜)",
+      "korean": "Kang Si-hyeon (강시현)"
+    }
+  },
   "xiao": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/xiao.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/02/20/402c89fffc5886be0ecf3e5200b3f999_1094831223737937120.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
     "name": "Xiao",
     "title": "Vigilant Yaksha",
@@ -1583,6 +1765,8 @@
   "xingqiu": {
     "image": "https://telegra.ph/file/c6e8486508dee382c7a53.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/60b6242087e561f887131b6f31bc53b7_172145867243005676.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
     "name": "Xingqiu",
     "title": "Juvenile Galant",
@@ -1605,6 +1789,8 @@
   "xinyan": {
     "image": "https://telegra.ph/file/40e6556cbd4085459c4d3.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/25/f5ebdc3aa2852da587147600ddf6fa57_9057008431620929245.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
     "name": "Xinyan",
     "title": "Blazing Riff",
@@ -1627,6 +1813,8 @@
   "yaemiko": {
     "image": "https://telegra.ph/file/4826b1027e9e94a1783b4.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/02/09/5e408235063f7f7aebbe6772d2384922_5891244261992346493.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
     "name": "Yae Miko",
     "title": "Astute Amusement",
@@ -1649,6 +1837,8 @@
   "yanfei": {
     "image": "https://telegra.ph/file/90764cf96261a2ddd1113.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/04/21/12903bbbf167ba3eb1ba7347d93e33f2_568730014088450384.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
     "name": "Yanfei",
     "title": "Wise Innocence",
@@ -1671,6 +1861,8 @@
   "yaoyao": {
     "image": "https://telegra.ph/file/e8e3edb70f77889b8ff76.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/01/11/d74a7a3f7d24edd4949dea685a1c6aed_5757250959608229826.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
     "name": "Yaoyao",
     "title": "Burgeoning Grace",
@@ -1693,6 +1885,8 @@
   "yelan": {
     "image": "https://telegra.ph/file/c4fb7649c39acbf0bc997.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/05/18/79c661ddfe175553880997fed69d33a0_4475263708553663092.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
     "name": "Yelan",
     "title": "Valley Orchid",
@@ -1715,6 +1909,8 @@
   "yoimiya": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/yoimiya.png?raw=true",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/30/efecae4cd41cdcf75abaca03808c4ac7_3164008267777726199.mp3",
+    "mate": "",
+    "tim": "",
     "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
     "name": "Yoimiya",
     "title": "Frolicking Flames",
@@ -1737,6 +1933,8 @@
   "yunjin": {
     "image": "https://telegra.ph/file/84feafc310e69b1d23178.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/26/056844683ca23dbe3b58cab410ef9be0_6752832293725307648.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
     "name": "Yun Jin",
     "title": "Stage Lucida",
@@ -1759,6 +1957,8 @@
   "zhongli": {
     "image": "https://telegra.ph/file/f42d3e51daa8c526ba5b1.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/20/177fd76054a08aa2d82b10497f45fba8_5402827144498701290.mp3",
+    "mate": "",
+    "tim": "",
     "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
     "name": "Zhongli",
     "title": "Vago Mundo",
