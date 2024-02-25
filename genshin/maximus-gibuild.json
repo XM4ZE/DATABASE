@@ -1,6 +1,6 @@
 {
   "albedo": {
-    "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/560205495030382644/4e10479911522da7cefa58f2c5a67967a6b4a3fc2decdef2a43026208641092e.png",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/albedo.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194959333927165992/card.png?ex=65b23f9a&is=659fca9a&hm=c1f8e303c5438d54576cac3fe714dc28eae2059f183b98dee5b6970924c2a366&",
     "tim": "https://cdn.discordapp.com/attachments/919605617902108742/995372200074956830/FXFnjtMWQAExqMC.jpg?ex=65abfa99&is=65998599&hm=4870fdc9305068d2711a98faa7ad0cfddb7553752ccac97f15b96249bb4f1384&",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/12/16/ccf7f7adf04d69fbe51eb88ecf4438a4_364070857621090471.mp3",
@@ -24,7 +24,7 @@
     }
   },
   "alhaitham": {
-    "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/560205495030382644/beb75276210a632ec390ea49fce1968085696767b76265fe940dd8a93321674b.png",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/alhaitham.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194961025250893844/card.png?ex=65b2412d&is=659fcc2d&hm=afe976d875d1c06e23540d9c397b77c7f35c72040493e5b37cd9c6d995155e8b&",
     "tim": "https://telegra.ph/file/924feb7018bfb6589e448.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/01/11/c20bf233c409a33973fba2e081f954df_3186209960256254495.mp3",
@@ -48,7 +48,7 @@
     }
   },
   "aloy": {
-    "image": "https://cdn-longterm.mee6.xyz/plugins/commands/images/560205495030382644/23343634561a36937acd92b643a0d9c23517bfe9ded917cdc39951a35d0fc19c.png",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/aloy.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194965481451442186/Character_Aloy.png?ex=65b24554&is=659fd054&hm=83dc1966bd5ef084aff914354414611669711eea77b4422fd41fb8376bc5c5b0&",
     "tim": "https://telegra.ph/file/b6823f93b084e4e5d2b67.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/24/e2ae69079d3b3917d242b123eba732a4_5951606893988984609.mp3",
@@ -72,7 +72,7 @@
     }
   },
   "amber": {
-    "image": "https://raw.githubusercontent.com/FortOfFans/GI/main/sheets/Amber_Support.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/amber.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194966288070615152/Character_Amber.png?ex=65b24614&is=659fd114&hm=ba854822bb908055523ccbec2730dfdcaed99b8fe6dc2bedbe4bd65b6bd46d9c&",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100914385463548.mp3",
@@ -118,7 +118,7 @@
   }
 },
   "kamisatoAyaka": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1186386025996632224/AYAKASIPSIP.png?ex=65e61d96&is=65d3a896&hm=d47844bcca6f9376177ac9b3b761fa9b5345bcf62a434f260efbb02f0419060f& ok",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ayaka.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194968380277534770/card.png?ex=65b24807&is=659fd307&hm=73398c26aa7c0b74d4e0751224d64740d560867db01255f41b01e077de4de985&",
     "tim": "https://telegra.ph/file/b09d8daf72d5041895fbb.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/15/00eec241c95002cd8c57ce920f5b98e8_6639265316892732065.mp3",
@@ -142,7 +142,7 @@
     }
   },
   "kamisatoAyato": {
-    "image": "https://raw.githubusercontent.com/FortOfFans/GI/main/sheets/Kamisato%20Ayato_Main%20DPS.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ayato.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194970383561015306/card.png?ex=65b249e4&is=659fd4e4&hm=be3e6cb3b1df33669715ae6d91959bbff3fced7d3b636fafa441241023902eb7&",
     "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1178096676628611092/AYATOTEAMGUIDE.png?ex=65ac4607&is=6599d107&hm=6a2c3f839608e92e2487064e9f2706e211fecdd84ee4c8f311442ddc745d96ba&",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/03/22/ac2b1d6ebb74148a1ceaee34a47a07ce_3933923855174033942.mp3",
@@ -166,7 +166,7 @@
     }
   },
   "baizhu": {
-    "image": "https://telegra.ph/file/969765529b822919c73ca.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/baizhu.png",
     "mate": "",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/03/27/3165c230833354cab69f5b767b462bfc_3806736583775814114.mp3",
@@ -190,7 +190,7 @@
     }
   },
   "barbara": {
-    "image": "https://telegra.ph/file/cd5542c50732b2ef44623.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/barbara.png",
     "mate": "",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100912322634962.mp3",
@@ -214,7 +214,7 @@
     }
   },
   "beidou": {
-    "image": "https://telegra.ph/file/59dcdf126b44de626fa25.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/beidou.png",
     "mate": "",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/02/27/8147fa13c0dcfb6e402967c55c2b9ecc_7343111540189611178.mp3",
@@ -238,7 +238,7 @@
     }
   },
   "bennett": {
-    "image": "https://telegra.ph/file/42b353412304c71aaf10f.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/bennett.png",
     "mate": "",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/03/a12cbe45f81125f7dbf470f9bbe88abf_3205049333274535623.mp3",
@@ -262,7 +262,7 @@
     }
   },
   "candace": {
-    "image": "https://telegra.ph/file/f8b3eac9a03a4db0d18b3.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/candace.png",
     "mate": "",
     "tim": "",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/22/b962b61f30a4eb8d034b408b86fbacaa_4844465311665240233.mp3",
@@ -286,7 +286,7 @@
     }
   },
   "charlotte": {
-    "image": "https://telegra.ph/file/81b2f4a5aaa25d7f03354.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/charlotte.png",
     "mate": "",
     "tim": "",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113448/76fd35fee65725ca8cb338fe02027a87_4040255107351404693.mp3",
@@ -310,7 +310,7 @@
     }
   },
 "chevreuse": {
-  "image": "https://cdn.discordapp.com/attachments/919605617902108742/1183053715318517820/CHEVREUSESIPSIP.png?ex=65abd9a1&is=659964a1&hm=deb45049c4b2274a942d3f24afb767f43c18b3006e02a454d88bfbf8a35e4064&",
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chevreuse.png",
   "mate": "",
   "tim": "",
   "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113800/c7e88ab6c4409e68c182f5ed6099e96a_4748435202096261831.mp3",
@@ -334,7 +334,7 @@
   }
 },
   "childe": {
-    "image": "https://telegra.ph/file/74bac1793375109836d00.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/childe.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/03/af757bf6a1f86c9727c503325b0c4698_2378720270954342934.mp3",
     "mate": "",
     "tim": "",
@@ -358,7 +358,7 @@
     }
   },
   "chongyun": {
-    "image": "https://telegra.ph/file/a17d57914c5f3d4fdcd97.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chongyun.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/02/602d5d7cbc2e93130a18188b4af7a51d_4081218662440864466.mp3",
     "mate": "",
     "tim": "",
@@ -382,7 +382,7 @@
     }
   },
   "collei": {
-    "image": "https://telegra.ph/file/bf25bad3987fc4acbb2a3.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/collei.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/22/3db9e5d34c072a1b7c43c1ae060a9eff_4994276194492685500.mp3",
     "mate": "",
     "tim": "",
@@ -406,7 +406,7 @@
     }
   },
   "cyno": {
-    "image": "https://telegra.ph/file/f0be7caf3a6104deff8ca.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/cyno.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/21/38032c7c233cab5b34c0a9c1fa689eec_1627692487294193777.mp3",
     "mate": "",
     "tim": "",
@@ -430,7 +430,7 @@
     }
   },
   "dehya": {
-    "image": "https://telegra.ph/file/9e2c94cf1fb2a68dce91c.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/dehya.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/16/d5a2d6d91669eab018cca5cdde0f28f9_5651507830582955428.mp3",
     "mate": "",
     "tim": "",
@@ -476,7 +476,7 @@
   }
 },
   "diluc": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/diluc.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/diluc.png",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100915051414419.mp3",
     "mate": "",
     "tim": "",
@@ -500,7 +500,7 @@
     }
   },
   "diona": {
-    "image": "https://telegra.ph/file/71a6c938754d651685b85.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/diona.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/06/756621f17feb4bbe4eb5719f13d5c159_3371204395463020442.mp3",
     "mate": "",
     "tim": "",
@@ -524,7 +524,7 @@
     }
   },
   "dori": {
-    "image": "https://telegra.ph/file/a77610f728abacf6d34e7.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/dori.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/30/06a9c6c73a62364d4f4197d3024f5ce6_2506738424078182566.mp3",
     "mate": "",
     "tim": "",
@@ -548,7 +548,7 @@
     }
   },
   "duke": {
-    "image": "https://telegra.ph/file/c0fcbbe42869d345c749b.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/wriothesley.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/22/88d16411e8637b52cb43948fb62f1e26_1061667661873779251.mp3",
     "mate": "",
     "tim": "",
@@ -594,7 +594,7 @@
     }
   },
   "eula": {
-    "image": "https://telegra.ph/file/be22dbb5d5848b4a87c63.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/eula.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/05/10/e0161f110e4c7c2d817bd000b69ff3c0_368897700876015974.mp3",
     "mate": "",
     "tim": "",
@@ -618,7 +618,7 @@
     }
   },
   "faruzan": {
-    "image": "https://telegra.ph/file/d442987d1aa4f7ea969ce.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/faruzan.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/12/01/c110ff47605bb3a7eb16f551ab2fc70e_3360777012671655267.mp3",
     "mate": "",
     "tim": "",
@@ -642,7 +642,7 @@
     }
   },
   "fischl": {
-    "image": "https://raw.githubusercontent.com/ketchupmaze/GenshinChar/main/genshinbuild/fischl.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/fischl.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/2c536bd063a9f14c752c211704bfe6ae_6990353860087345405.mp3",
     "mate": "",
     "tim": "",
@@ -663,7 +663,7 @@
     }
   },
   "freminet": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/freminet.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/freminet.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/fd859d8b92ec3fd8096ca1137c07fdfa_8830619891179920779.mp3",
     "mate": "",
     "tim": "",
@@ -687,7 +687,7 @@
     }
   },
   "furina": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1170142784238391306/FURINAONESHEET.png?ex=6557f763&is=65458263&hm=705569b1a91dba8c6f2eb71a52ec00c3af70319ac54e4b5e8fbaf359d4d61591&",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/furina.png",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113447/853dfb3a0e3fcc3dd96288843119de07_4570378317595834942.mp3",
     "mate": "",
     "tim": "",
@@ -711,7 +711,7 @@
     }
   },
   "gaming": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1197891713390346380/GamingGuide.png?ex=65cf5f98&is=65bcea98&hm=a51bd8a19d64a28fa639084f160469ce9adbfdeb5b71bb47a1fcece88d5dc045&",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/gaming.png",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119403/1d3f6e621a1c2fa2c7a83300add6ee93_5724208082623824518.mp3",
     "mate": "https://cdn.discordapp.com/attachments/919605617902108742/1197891677667471491/GamingFarmingGuide.png?ex=65cf5f8f&is=65bcea8f&hm=943a5a25b95ab1f97489f21fda2692b83b623c22dd4ef48e2c67416ac403c2a3&",
     "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1197891693274472638/GamingTeamGuide.png?ex=65cf5f93&is=65bcea93&hm=d72f4019bfbfead61ea3a06770ff953f0c0ce03074af70ceb26deaeb2d723949&",
@@ -735,7 +735,7 @@
     }
   },
   "ganyu": {
-    "image": "https://telegra.ph/file/edc76a6a3446a39d442f0.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ganyu.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/01/04/3f86a0d295717787bc667f8c9bdf08fb_1803119177844401844.mp3",
     "mate": "",
     "tim": "",
@@ -781,7 +781,7 @@
   }
 },
   "gorou": {
-    "image": "https://telegra.ph/file/61264cb14b81af99691c8.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/gorou.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/06/ffbb3aa38dc6cbb0dc2906448ea5fd39_4358605768420873069.mp3",
     "mate": "",
     "tim": "",
@@ -805,7 +805,7 @@
     }
   },
   "heizou": {
-    "image": "https://telegra.ph/file/ced51c9069bdf26cc4629.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/heizou.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/07/cd6e518bbecbb988f19bb2f72f9b9a2a_2381203154583528978.mp3",
     "mate": "",
     "tim": "",
@@ -829,7 +829,7 @@
     }
   },
   "hutao": {
-    "image": "https://telegra.ph/file/816e8691b58c7eb23d3ab.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/hutao.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/02/24/338b9ecdf100d646c9fd7bec0a1d011b_8571295826352667668.mp3",
     "mate": "",
     "tim": "",
@@ -875,7 +875,7 @@
   }
 },
   "itto": {
-    "image": "https://telegra.ph/file/a6037305ca091b9ccf40c.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/itto.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/06/61a99fc2b021979ef8b871c6e5d95ed5_3047422790514876221.mp3",
     "mate": "",
     "tim": "",
@@ -923,7 +923,7 @@
     }
   },
   "kaeya": {
-    "image": "https://telegra.ph/file/6b93cc018cf38e192a86e.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kaeya.png",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100910350020037.mp3",
     "mate": "",
     "tim": "",
@@ -947,7 +947,7 @@
     }
   },
   "kaveh": {
-    "image": "https://telegra.ph/file/0c90918c70c4ba60e6372.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kaveh.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/03/27/cd0e7b35ef960fcc9fe0bd8ec3143b0e_225414720646043164.mp3",
     "mate": "",
     "tim": "",
@@ -995,7 +995,7 @@
     }
   },
   "keqing": {
-    "image": "https://telegra.ph/file/8655f6e98192e66fc9508.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/keqing.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/079d5b19ed55af90c2af745db8354176_270060025253172630.mp3",
     "mate": "",
     "tim": "",
@@ -1019,7 +1019,7 @@
     }
   },
   "kirara": {
-    "image": "https://telegra.ph/file/2bf7ab58074cda118af87.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kirara.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/05/11/3df8e03b4f9fadf1d4bf2aa6ffa3c2b6_4618382671198573465.mp3",
     "mate": "",
     "tim": "",
@@ -1043,7 +1043,7 @@
     }
   },
   "klee": {
-    "image": "https://telegra.ph/file/3c48920393bab87681eca.jpg'",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/klee.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/03/5c23edd1addc595091696af98f1fa9b5_1883663104510035371.mp3",
     "mate": "",
     "tim": "",
@@ -1067,7 +1067,7 @@
     }
   },
   "kokomi": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/kokomi.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kokomi.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/09/09/d93c128ddca45384390b9f15d09b24b7_2084139676702932458.mp3",
     "mate": "",
     "tim": "",
@@ -1091,7 +1091,7 @@
     }
   },
   "sara": {
-    "image": "https://telegra.ph/file/03531dd26d3259844bd85.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kujousara.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/18/76cb313990d85d2321a2433105985f6d_2561393966500234042.mp3",
     "mate": "",
     "tim": "",
@@ -1115,7 +1115,7 @@
     }
   },
   "kuki": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/kuki.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kukisinobu.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/06/16/844141a42da03d025532e2acb6754731_3723953092046199833.mp3",
     "mate": "",
     "tim": "",
@@ -1139,7 +1139,7 @@
     }
   },
   "layla": {
-    "image": "https://telegra.ph/file/f71afb7ef498b68631d1b.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/layla.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/11/07/036a6ac338126dbfe59bc7bf78bc2336_880088226584117972.mp3",
     "mate": "",
     "tim": "",
@@ -1163,7 +1163,7 @@
     }
   },
   "lisa": {
-    "image": "https://telegra.ph/file/04221eeec372b268963b4.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/lisa.png",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100915134493475.mp3",
     "mate": "",
     "tim": "",
@@ -1187,7 +1187,7 @@
     }
   },
   "lynette": {
-    "image": "https://telegra.ph/file/2c7b4849723cb647d4f24.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/lynette.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/73d2511d6b077d351ed30a6accd85f55_5866349071008911126.mp3",
     "mate": "",
     "tim": "",
@@ -1211,7 +1211,7 @@
     }
   },
   "lyney": {
-    "image": "https://telegra.ph/file/a913d9495cf6e1fe84f5f.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/lyney.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/08/15/b6aabb522438dfb65aa8021fb79444b4_4413342217576896471.mp3",
     "mate": "",
     "tim": "",
@@ -1235,7 +1235,7 @@
     }
   },
   "mika": {
-    "image": "https://telegra.ph/file/80ea37bc9505bcfc75910.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mika.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/16/1c2143d1317514a8d32101d3c1d8030d_8973890000288566498.mp3",
     "mate": "",
     "tim": "",
@@ -1259,7 +1259,7 @@
     }
   },
   "mona": {
-    "image": "https://telegra.ph/file/725aa1bc62034bb1b9c14.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mona.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/d79172f76f1db358636bcdf171336b8c_2041972378963683842.mp3",
     "mate": "",
     "tim": "",
@@ -1283,7 +1283,7 @@
     }
   },
   "nahida": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1098633666994901053/SIPSIPNAHIDA.png?ex=65e9df55&is=65d76a55&hm=5d4b49be98875b29d304fdf47899154c8c3199ae4748204aeabf5933e92fb987&",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/nahida.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/10/24/eb4c0258435ff86ce4425cc60ec2193a_2102608887695909153.mp3",
     "mate": "",
     "tim": "",
@@ -1307,7 +1307,7 @@
     }
   },
   "navia": {
-  "image": "https://cdn.discordapp.com/attachments/919605617902108742/1182670178870362254/NAVIAONESHEET.png?ex=65e1d36f&is=65cf5e6f&hm=48ee7c89dc078f39f59e674dcaf28f4aae70308b3a809ea65ed8a3c2f12fb1c8&",
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/navia.png",
   "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113799/d31df39f7be156e56d53b92e3ae6a78f_5666948741822247393.mp3",
   "mate": "",
   "tim": "",
@@ -1331,7 +1331,7 @@
   }
 },
   "neuvillette": {
-    "image": "https://telegra.ph/file/8257946a4c4404a757115.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/neuvillette.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/21/4e52f6b2332c2ca1ea638148a8703865_745344279131051500.mp3",
     "mate": "",
     "tim": "",
@@ -1355,7 +1355,7 @@
     }
   },
   "nilou": {
-    "image": "https://telegra.ph/file/c9c2ac669e74158d0e356.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/nilou.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/09/28/f7f4f80a38d5b1b7f46248e5a9695f34_4803705810652768542.mp3",
     "mate": "",
     "tim": "",
@@ -1379,7 +1379,7 @@
     }
   },
   "ningguang": {
-    "image": "https://telegra.ph/file/a6924b113c9def79e97de.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ningguang.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/03/05/17f08f78af0f2ea2684de750ad6cba0b_5678544076476104598.mp3",
     "mate": "",
     "tim": "",
@@ -1403,7 +1403,7 @@
     }
   },
   "noelle": {
-    "image": "https://telegra.ph/file/fd5f9805e338e0d9bf8c2.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/noelle.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/eeb8ed57db8e559959926c6fda18f9f7_939507911085059751.mp3",
     "mate": "",
     "tim": "",
@@ -1427,7 +1427,7 @@
     }
   },
   "qiqi": {
-    "image": "https://telegra.ph/file/a206d30bdd5b3fa2eb4fd.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/qiqi.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/eb39c364e60e8be7493cd5ebcbd498f1_1690512059894578712.mp3",
     "mate": "",
     "tim": "",
@@ -1451,7 +1451,7 @@
     }
   },
   "raiden": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1206298635189493770/RAIDENSIPSIP.png?ex=65e4baa6&is=65d245a6&hm=6ccbc8828a68fbf27d9d26f1795e63a48412c254fae80a6b2373463263800a38&",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/raidenshogun.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/08/18/d8c33103e302c3822b001ed0b2bbdbd0_6913641200556529114.mp3",
     "mate": "",
     "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1188503780707270677/RAIDENTEAMS.png?ex=65e49766&is=65d22266&hm=04c0190fcc5e13f6cddb504f9c59cded134ac5886bdd7a7eb372c5137e96d9a6&",
@@ -1475,7 +1475,7 @@
     }
   },
   "razor": {
-    "image": "https://telegra.ph/file/9dd088e9d90890f897739.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/razor.png",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191018/2019101811584680597.wav",
     "mate": "",
     "tim": "",
@@ -1499,7 +1499,7 @@
     }
   },
   "rosaria": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/rosaria.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/rosaria.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/03/25/5906b4475ddbfd315a0b4dfc27377595_8910608856957911360.mp3",
     "mate": "",
     "tim": "",
@@ -1523,7 +1523,7 @@
     }
   },
   "sayu": {
-    "image": "https://telegra.ph/file/acd598a3b98b61cb135a0.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/sayu.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/30/1cc43cfb98da910e5e687b7af5f67f21_9034681646771877173.mp3",
     "mate": "",
     "tim": "",
@@ -1547,7 +1547,7 @@
     }
   },
   "shenhe": {
-    "image": "https://telegra.ph/file/14321e839387b5ff37146.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/shenhe.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/26/74806a55052e2a4507e666d66039ca73_131576019089999989.mp3",
     "mate": "",
     "tim": "",
@@ -1571,7 +1571,7 @@
     }
   },
   "sucrose": {
-    "image": "https://telegra.ph/file/5e68d9a0cd1c146aae56b.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/sucrose.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/52de5562b5cb8fa8a7fd4efb499685dd_3497184957323650196.mp3",
     "mate": "",
     "tim": "",
@@ -1595,7 +1595,7 @@
     }
   },
   "thoma": {
-    "image": "https://telegra.ph/file/f47e27e0df4a3950bb9c8.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/thoma.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/10/21/535ac1e015ad4959e2123db743ae7364_2460137664808385324.mp3",
     "mate": "",
     "tim": "",
@@ -1619,7 +1619,7 @@
     }
   },
   "tighnari": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/tighnari.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/tighnari.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/21/ba87f7994707f47afa8afaaea4856f74_3113664698781347638.mp3",
     "mate": "",
     "tim": "",
@@ -1643,7 +1643,7 @@
     }
   },
   "venti": {
-    "image": "https://telegra.ph/file/179e971df71a3e2e9deeb.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/venti.png",
     "voice": "https://webstatic.mihayo.com/upload/op-public/2019/11/22/664f288815a1c683c30da078534b5cac_4353095660913502837.mp3",
     "mate": "",
     "tim": "",
@@ -1667,7 +1667,7 @@
     }
   },
   "wanderer": {
-    "image": "https://telegra.ph/file/e426f8ee99431d0b7a242.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/wanderer.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/11/28/deaee4e6f00c5f1b1e0f258ce65b27ce_6912363040173116689.mp3",
     "mate": "",
     "tim": "",
@@ -1691,7 +1691,7 @@
     }
   },
   "xiangling": {
-    "image": "https://telegra.ph/file/cf5976e0e014f4ca49170.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xiangling.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/03/17/394996dd7a5dc2dff4e1db07515da098_7982328413479946925.mp3",
     "mate": "",
     "tim": "",
@@ -1715,7 +1715,7 @@
     }
   },
   "xianyun": {
-    "image": "https://cdn.discordapp.com/attachments/919605617902108742/1197891839315935364/XianyunGuide.png?ex=65cf5fb6&is=65bceab6&hm=ed07ac0e4549e67e3fc47d451a334c5389df5cf911e014f064d82200e0a8bc4f&",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xianyun.png",
     "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/119401/f6e82af4036aff64915e1dda0449bee9_4856941708376475161.mp3",
     "mate": "https://cdn.discordapp.com/attachments/919605617902108742/1197891793010835589/XianyunFarmingGuide.png?ex=65cf5fab&is=65bceaab&hm=0528d8b3f5203a492f27bd22fc56c458f615af476d6dcd0c6a241a06743e4796&",
     "tim": "https://cdn.discordapp.com/attachments/919605617902108742/1197891817488785488/XianyunTeamGuide.png?ex=65cf5fb1&is=65bceab1&hm=8ea1721743ee69a1696f0a33937ea7e1253ac284c4b5a6fea9b929d41f77c3ea&",
@@ -1739,7 +1739,7 @@
     }
   },
   "xiao": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/xiao.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xiao.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/02/20/402c89fffc5886be0ecf3e5200b3f999_1094831223737937120.mp3",
     "mate": "",
     "tim": "",
@@ -1763,7 +1763,7 @@
     }
   },
   "xingqiu": {
-    "image": "https://telegra.ph/file/c6e8486508dee382c7a53.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xingqiu.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/60b6242087e561f887131b6f31bc53b7_172145867243005676.mp3",
     "mate": "",
     "tim": "",
@@ -1787,7 +1787,7 @@
     }
   },
   "xinyan": {
-    "image": "https://telegra.ph/file/40e6556cbd4085459c4d3.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xinyan.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/25/f5ebdc3aa2852da587147600ddf6fa57_9057008431620929245.mp3",
     "mate": "",
     "tim": "",
@@ -1811,7 +1811,7 @@
     }
   },
   "yaemiko": {
-    "image": "https://telegra.ph/file/4826b1027e9e94a1783b4.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yaemiko.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/02/09/5e408235063f7f7aebbe6772d2384922_5891244261992346493.mp3",
     "mate": "",
     "tim": "",
@@ -1835,7 +1835,7 @@
     }
   },
   "yanfei": {
-    "image": "https://telegra.ph/file/90764cf96261a2ddd1113.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yanfei.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/04/21/12903bbbf167ba3eb1ba7347d93e33f2_568730014088450384.mp3",
     "mate": "",
     "tim": "",
@@ -1859,7 +1859,7 @@
     }
   },
   "yaoyao": {
-    "image": "https://telegra.ph/file/e8e3edb70f77889b8ff76.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yaoyao.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/01/11/d74a7a3f7d24edd4949dea685a1c6aed_5757250959608229826.mp3",
     "mate": "",
     "tim": "",
@@ -1883,7 +1883,7 @@
     }
   },
   "yelan": {
-    "image": "https://telegra.ph/file/c4fb7649c39acbf0bc997.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yelan.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/05/18/79c661ddfe175553880997fed69d33a0_4475263708553663092.mp3",
     "mate": "",
     "tim": "",
@@ -1907,7 +1907,7 @@
     }
   },
   "yoimiya": {
-    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/yoimiya.png?raw=true",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yoimiya.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/07/30/efecae4cd41cdcf75abaca03808c4ac7_3164008267777726199.mp3",
     "mate": "",
     "tim": "",
@@ -1931,7 +1931,7 @@
     }
   },
   "yunjin": {
-    "image": "https://telegra.ph/file/84feafc310e69b1d23178.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/yunjin.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/26/056844683ca23dbe3b58cab410ef9be0_6752832293725307648.mp3",
     "mate": "",
     "tim": "",
@@ -1955,7 +1955,7 @@
     }
   },
   "zhongli": {
-    "image": "https://telegra.ph/file/f42d3e51daa8c526ba5b1.jpg",
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/zhongli.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/20/177fd76054a08aa2d82b10497f45fba8_5402827144498701290.mp3",
     "mate": "",
     "tim": "",
