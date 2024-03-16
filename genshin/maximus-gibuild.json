@@ -357,6 +357,30 @@
       "korean": "Nam Do-hyeong"
     }
   },
+    "chiori": {
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chiori.png",
+    "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/03/af757bf6a1f86c9727c503325b0c4698_2378720270954342934.mp3",
+    "mate": "",
+    "tim": "",
+    "description": "A signer whose unique sense of style always puts her at the forefront of Fontainian trends.",
+    "name": "Chiori",
+    "title": "The Thundering Seamstress",
+    "element": "Geo",
+    "weapon": "Sword",
+    "substat": "CRIT RATE",
+    "rarity": "⭐ 5",
+    "gender": "Female (GIRL)",
+    "birthday": "Agustus 17",
+    "constellation": "Cisoria",
+    "association": "Fontaine",
+    "region": "Inazuma",
+    "characters_voice": {
+      "english": "Brittany Lauda",
+      "chinese": "Chen Yang (陈阳)",
+      "japanese": "Taketatsu Ayana (竹達彩奈)",
+      "korean": "Lee Da-eun (이다은)"
+    }
+  },
   "chongyun": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chongyun.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/02/602d5d7cbc2e93130a18188b4af7a51d_4081218662440864466.mp3",
