@@ -117,6 +117,28 @@
     "korean": "Lee Kyeong-tae & Kim Ka-ryoung"
   }
 },
+  "arlecchino": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/arlecchino.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/123167/72bf410cafbae3ccf1251ad9e50603e2_3560413277005807541.mp3",
+  "description": ""The Knave," Fourth of the Fatui Harbingers. A poised, ruthless diplomat. To the children in the House of the Hearth, she is their feared yet dependable "Father."",
+  "name": "Arlecchino",
+  "title": "Dire Balemoon",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "substat": "undefined",
+  "rarity": "⭐ 5",
+  "gender": "Female ( LADY )",
+  "birthday": "August 22",
+  "constellation": "Ignis Purgatorius",
+  "association": "undefined",
+  "region": "Snezhnaya",
+  "characters_voice": {
+    "english": "Erin Yvette",
+    "chinese": "黄莺",
+    "japanese": "森なな子",
+    "korean": "Lee Myung-hi"
+  }
+},
   "kamisatoAyaka": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ayaka.png",
     "mate": "https://cdn.discordapp.com/attachments/1126517559123001364/1194968380277534770/card.png?ex=65b24807&is=659fd307&hm=73398c26aa7c0b74d4e0751224d64740d560867db01255f41b01e077de4de985&",
