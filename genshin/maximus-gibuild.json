@@ -1660,6 +1660,28 @@
       "korean": "Lee Hyeon-jin"
     }
   },
+  "sigewinne": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/shenhe.png",
+  "voice": null,
+  "description": "A Melusine and the Fortress of Meropide's head nurse. She cares equally for every convict locked in the undersea prison.",
+  "name": "Sigewinne",
+  "title": "Wondrous Dragonheir",
+  "element": "Hydro",
+  "weapon": "Bow",
+  "substat": "undefined",
+  "rarity": "⭐ 5",
+  "gender": "Female ( LOlI )",
+  "birthday": "March 30",
+  "constellation": "Nereides",
+  "association": "Fortress of Meropide",
+  "region": "Fontaine",
+  "characters_voice": {
+    "english": "Sarah Williams",
+    "chinese": "赵爽",
+    "japanese": "木野日菜",
+    "korean": "Kim Chae-rin"
+  }
+},
   "sucrose": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/sucrose.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/52de5562b5cb8fa8a7fd4efb499685dd_3497184957323650196.mp3",
