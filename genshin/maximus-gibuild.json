@@ -283,6 +283,28 @@
       "korean": "Song Ha-rim"
     }
   },
+  "clorinde": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/clorinde.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/123842/7641d87cebaf17d40c147b040aa9b4aa_942198799272213097.mp3",
+  "description": "An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.",
+  "name": "Clorinde",
+  "title": "Candlebearer, Shadowhunter",
+  "element": "Electro",
+  "weapon": "Polearm",
+  "substat": "undefined",
+  "rarity": "⭐ 5",
+  "gender": "Female ( LADY )",
+  "birthday": "September 20",
+  "constellation": "Rapperia",
+  "association": "undefined",
+  "region": "Fontaine",
+  "characters_voice": {
+    "english": "Crystal Lee",
+    "chinese": "赵涵雨",
+    "japanese": "石川由依",
+    "korean": "Shin Na-ri"
+  }
+},
   "candace": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/candace.png",
     "mate": "",
