@@ -641,7 +641,7 @@
   },
   "electro": {
     "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/electro.jpg?raw=true",
-    "voice": null,
+    "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
     "description": "NONE",
     "name": "Arther/Lumine",
     "title": "NONE",
