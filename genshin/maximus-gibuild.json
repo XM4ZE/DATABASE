@@ -290,13 +290,13 @@
   "name": "Clorinde",
   "title": "Candlebearer, Shadowhunter",
   "element": "Electro",
-  "weapon": "Polearm",
+  "weapon": "Sword",
   "substat": "undefined",
   "rarity": "⭐ 5",
   "gender": "Female ( LADY )",
   "birthday": "September 20",
   "constellation": "Rapperia",
-  "association": "undefined",
+  "association": "Trial Court",
   "region": "Fontaine",
   "characters_voice": {
     "english": "Crystal Lee",
@@ -1614,6 +1614,28 @@
       "korean": "Lee Ji-hyeon"
     }
   },
+  "sethos": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/sethos.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/123866/9ee9dda9d5e2d720d3931b347dbc22bb_1972760716262258886.mp3",
+  "description": "The Temple of Silence's heir. Burdened with secrets, he comes from the sands.",
+  "name": "Sethos",
+  "title": "Wisdom's Measure",
+  "element": "Electro",
+  "weapon": "Bow",
+  "substat": "undefined",
+  "rarity": "⭐ 4",
+  "gender": "Male ( BOY )",
+  "birthday": "May 31",
+  "constellation": "Basileos Delta",
+  "association": "Temple of Silence",
+  "region": "Sumeru",
+  "characters_voice": {
+    "english": "Zeno Robinson",
+    "chinese": "李兰陵",
+    "japanese": "千葉翔也",
+    "korean": "Kim Dong-hyun"
+  }
+},
   "shenhe": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/shenhe.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/12/26/74806a55052e2a4507e666d66039ca73_131576019089999989.mp3",
