@@ -661,6 +661,28 @@
       "korean": "NONE"
     }
   },
+ "emilie": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/eula.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/124961/ef6d92e948cc671ee174dac8e0a2c410_8885422812544287367.mp3",
+  "description": "A Fontainian perfumer, one who bottles secrets.",
+  "name": "Emilie",
+  "title": "A Thousand Scents Traced",
+  "element": "Dendro",
+  "weapon": "Polearm",
+  "substat": "undefined",
+  "rarity": "⭐ 5",
+  "gender": "Female (LADY)",
+  "birthday": "September 22",
+  "constellation": "Pomum de Ambra",
+  "association": "undefined",
+  "region": "Fontaine",
+  "characters_voice": {
+    "english": "Amber Aviles",
+    "chinese": "木子橙",
+    "japanese": "日笠陽子",
+    "korean": "Kwon Da-ye"
+  }
+},
   "eula": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/eula.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2021/05/10/e0161f110e4c7c2d817bd000b69ff3c0_368897700876015974.mp3",
