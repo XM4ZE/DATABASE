@@ -1156,7 +1156,7 @@
   },
   "kinich": {
   "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kinich.png",
-  "voice": "",
+  "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
   "description": "A Huitztlan Saurian Hunter skilled at counting costs.",
   "name": "Kinich",
   "title": "Turnfire Hunt",
