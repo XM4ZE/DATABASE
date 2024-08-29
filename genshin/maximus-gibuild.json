@@ -1154,6 +1154,28 @@
       "korean": "Kang Eun-ae"
     }
   },
+  "kinich": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kinich.png",
+  "voice": "",
+  "description": "A Huitztlan Saurian Hunter skilled at counting costs.",
+  "name": "Kinich",
+  "title": "Turnfire Hunt",
+  "element": "Dendro",
+  "weapon": "Claymore",
+  "substat": "ATK",
+  "rarity": "⭐ 5",
+  "gender": "Male ( BOY )",
+  "birthday": "November 11",
+  "constellation": "Chimaera Alebriius",
+  "association": "undefined",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "John Patneaude",
+    "chinese": "斑马 & 弭洋",
+    "japanese": "杉山紀彰",
+    "korean": "Kang Seong-woo"
+  }
+},
   "klee": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/klee.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/03/5c23edd1addc595091696af98f1fa9b5_1883663104510035371.mp3",
