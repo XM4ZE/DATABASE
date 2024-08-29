@@ -1372,6 +1372,28 @@
       "korean": "Woo Jeong-shin"
     }
   },
+  "mualani": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mualani.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/125394/e25c3e1e1e209c84a6f132a00da6932c_5194128686181104908.mp3",
+  "description": "A well-known guide in Natlan who owns a watersports shop, and expert in all forms of wave-chasing.",
+  "name": "Mualani",
+  "title": "Splish-Splash Wavechaser",
+  "element": "Hydro",
+  "weapon": "Catalyst",
+  "substat": "HP",
+  "rarity": "⭐ 5",
+  "gender": "Female ( undefined )",
+  "birthday": "August 3",
+  "constellation": "Phoca Neomonachus",
+  "association": "undefined",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "Cassandra Lee Morris",
+    "chinese": "王晓彤",
+    "japanese": "東山奈央",
+    "korean": "Kim Do-hee"
+  }
+},
   "nahida": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/nahida.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/10/24/eb4c0258435ff86ce4425cc60ec2193a_2102608887695909153.mp3",
