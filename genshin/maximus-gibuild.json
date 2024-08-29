@@ -1012,6 +1012,28 @@
       "korean": "Ahn Young-mi"
     }
   },
+"kachina": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kachina.png",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/125395/4801ed381be39307e8098769470d881b_945452590573680090.mp3",
+  "description": "A young warrior of the Nanatzcayan, given the Ancient Name of "Uthabiti." Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.",
+  "name": "Kachina",
+  "title": "Mottled Gold Yet Unsmelted",
+  "element": "Geo",
+  "weapon": "Polearm",
+  "substat": "DEF",
+  "rarity": "⭐ 4",
+  "gender": "Female ( LOLI )",
+  "birthday": "April 22",
+  "constellation": "Ochotona Princeps",
+  "association": "undefined",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "Kristen McGuire",
+    "chinese": "静宸",
+    "japanese": "久保ユリカ",
+    "korean": "Son Sun-young"
+  }
+},
   "kaeya": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/kaeya.png",
     "voice": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20191009/2019100910350020037.mp3",
@@ -1382,7 +1404,7 @@
   "weapon": "Catalyst",
   "substat": "HP",
   "rarity": "⭐ 5",
-  "gender": "Female ( undefined )",
+  "gender": "Female ( GIRL )",
   "birthday": "August 3",
   "constellation": "Phoca Neomonachus",
   "association": "undefined",
