@@ -1962,6 +1962,30 @@
       "korean": "Shim Kyu-hyeok"
     }
   },
+  "xilonen": {
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xilonen.png",
+    "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
+    "mate": "",
+    "tim": "",
+    "description": "A Name Engraver of the Nanatzcayan, she is especially skilled at finding a good balance between the heavy responsibilities of her job and living well.",
+    "name": "Xilonen",
+    "title": "Ardent Flames Forge the Soul",
+    "element": "Geo",
+    "weapon": "Sword",
+    "substat": "DEF",
+    "rarity": "⭐ 5",
+    "gender": "Female ( LADY )",
+    "birthday": "March 13",
+    "constellation": "Panthera Ocelota",
+    "association": "Nanatzcayan",
+    "region": "Natlan",
+    "characters_voice": {
+      "english": "Beth Curry",
+      "chinese": "Mi Yang (弭洋)",
+      "japanese": "Fairouz Ai (ファイルーズ あい)",
+      "korean": "Kim I-an (김이안)"
+    }
+  },
   "xingqiu": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/xingqiu.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/06/11/60b6242087e561f887131b6f31bc53b7_172145867243005676.mp3",
