@@ -353,6 +353,30 @@
       "korean": "Shin On-yu"
     }
   },
+  "chasca": {
+    "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chasca.png",
+    "mate": "",
+    "tim": "",
+    "voice": "",
+    "description": "The most infamous Peacemaker of the Flower-Feather Clan and no stranger to the Night Warden Wars, Chasca bears the Ancient Name of \"Vuka.\" Chasca is not unfamiliar with conflicts - at times struggling with many of her own internal ones - yet despite how many would view her, she is always able to stand above them. She makes her first appearance during Ignition Teaser: A Name Forged in Flames.",
+    "name": "Chasca",
+    "title": "Skyborne Arbiter",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "substat": "ATK%",
+    "rarity": "⭐ 5",
+    "gender": "Female (LADY)",
+    "birthday": "Desember 10",
+    "constellation": "Vultur Gryphus",
+    "association": "Flower-Feather Clan",
+    "region": "Natlan",
+    "characters_voice": {
+      "english": "Lauren Amante",
+      "chinese": "Zhang Ruoyu (张若瑜)",
+      "japanese": "Kaida Yuhko (甲斐田 裕子)",
+      "korean": "Su-hyeon (수현)"
+    }
+  },
 "chevreuse": {
   "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/chevreuse.png",
   "mate": "",
