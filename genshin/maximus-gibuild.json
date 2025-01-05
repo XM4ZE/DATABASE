@@ -1694,6 +1694,28 @@
     "korean": "Seo Joung-ik"
   }
 },
+  "pyro": {
+    "image": "https://github.com/ketchupmaze/GenshinChar/blob/main/genshinbuild/pyro.png?raw=true",
+    "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
+   "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+  "name": "Pyro",
+  "title": "None",
+  "element": "None",
+  "weapon": "Sword",
+  "substat": "ATK",
+  "rarity": "⭐ 5",
+  "gender": "Male ( BOY )",
+  "birthday": "None",
+  "constellation": "Viator",
+  "association": "MAINACTOR",
+  "region": "None",
+  "characters_voice": {
+    "english": "Zach Aguilar & Corina Boettger",
+    "chinese": "鹿喑 & 多多poi",
+    "japanese": "堀江瞬 & 古賀葵",
+    "korean": "Lee Kyeong-tae & Kim Ka-ryoung"
+  }
+},
   "qiqi": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/qiqi.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/eb39c364e60e8be7493cd5ebcbd498f1_1690512059894578712.mp3",
