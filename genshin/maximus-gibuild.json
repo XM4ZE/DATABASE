@@ -473,6 +473,28 @@
       "korean": "Yang Jeong-hwa"
     }
   },
+  "citlali": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/citlali.png",
+  "voice": "",
+  "description": "The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli.",
+  "name": "Citlali",
+  "title": "Obsidian Opalstar",
+  "element": "Cryo",
+  "weapon": "Catalyst",
+  "substat": "Elemental Mastery",
+  "rarity": "⭐ 5",
+  "gender": "Female ( GIRL )",
+  "birthday": "January 20",
+  "constellation": "Patina Anavatlaca",
+  "association": "NONE",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "Skyler Davenport",
+    "chinese": "柳知萧",
+    "japanese": "田野アサミ",
+    "korean": "Lee Eun-jo"
+  }
+},
   "collei": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/collei.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/08/22/3db9e5d34c072a1b7c43c1ae060a9eff_4994276194492685500.mp3",
@@ -1296,6 +1318,28 @@
       "korean": "Kim Yool"
     }
   },
+  "lan yan": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/lanyan.png",
+  "voice": "",
+  "description": "A rattan weaver from Chenyu Vale. Clear-minded and well-tempered, she is as lively as a mountain spring.",
+  "name": "Lan Yan",
+  "title": "Spring Woven From Jade",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "substat": "Cr/Cdm",
+  "rarity": "⭐ 4",
+  "gender": "Female ( GIRL )",
+  "birthday": "January 6",
+  "constellation": "Hirundo Lazuli",
+  "association": "NONE",
+  "region": "Liyue",
+  "characters_voice": {
+    "english": "Anna Devlin",
+    "chinese": "刘十四",
+    "japanese": "若山詩音",
+    "korean": "Kim Soon-mi"
+  }
+},
   "layla": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/layla.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2022/11/07/036a6ac338126dbfe59bc7bf78bc2336_880088226584117972.mp3",
@@ -1392,6 +1436,28 @@
       "korean": "Park Seong-yeong"
     }
   },
+  "mavuika": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mavuika.png",
+  "voice": "",
+  "description": "The leader of Natlan who inherited the Ancient Name of \"Kiongozi.\" She made a vow to illuminate the future of the nation of war with the Sacred Flame.",
+  "name": "Mavuika",
+  "title": "Night-Igniting Flame",
+  "element": "Pyro",
+  "weapon": "Claymore",
+  "substat": "DEF",
+  "rarity": "⭐ 5",
+  "gender": "Female ( LADY )",
+  "birthday": "August 28",
+  "constellation": "Sol Invictus",
+  "association": "NONE",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "Katiana Sarkissian",
+    "chinese": "李晔",
+    "japanese": "小松未可子",
+    "korean": "Kim Na-yul"
+  }
+},
   "mika": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mika.png",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/16/1c2143d1317514a8d32101d3c1d8030d_8973890000288566498.mp3",
@@ -1606,6 +1672,28 @@
       "korean": "Lee Bo-hee"
     }
   },
+  "ororon": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/ororon.png",
+  "voice": "",
+  "description": "A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.",
+  "name": "Ororon",
+  "title": "Shadow of the Night-Wind",
+  "element": "Electro",
+  "weapon": "Bow",
+  "substat": "Energy Recharge",
+  "rarity": "⭐ 4",
+  "gender": "Male ( MALE )",
+  "birthday": "October 14",
+  "constellation": "Vampyrum Spectrum",
+  "association": "NONE",
+  "region": "Natlan",
+  "characters_voice": {
+    "english": "Nathan Nokes",
+    "chinese": "梁达伟",
+    "japanese": "近藤隆",
+    "korean": "Seo Joung-ik"
+  }
+},
   "qiqi": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/qiqi.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/eb39c364e60e8be7493cd5ebcbd498f1_1690512059894578712.mp3",
