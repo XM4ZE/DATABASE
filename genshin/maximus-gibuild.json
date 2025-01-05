@@ -1694,10 +1694,10 @@
     "korean": "Seo Joung-ik"
   }
 },
-  "pyro": {
-    "image": "https://github.com/XM4ZE/DATABASE/blob/master/genshin/sheet/pyro.png?raw=true",
-    "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
-   "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+"pyro": {
+  "image": "https://github.com/XM4ZE/DATABASE/blob/master/genshin/sheet/pyro.png?raw=true",
+  "voice": "https://github.com/ketchupmaze/mp3/blob/main/alters2.mp3?raw=true",
+  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
   "name": "Pyro",
   "title": "None",
   "element": "None",
