@@ -1482,6 +1482,28 @@
       "korean": "Yoon Eun-seo"
     }
   },
+  "mizuki": {
+  "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mizuki.png",
+  "voice": "",
+  "description": "A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.",
+  "name": "Mizuki",
+  "title": "Embrace of Enchanting Dreams",
+  "element": "Anemo",
+  "weapon": "Catalyst",
+  "substat": "Elemental Mastery",
+  "rarity": "⭐ 5",
+  "gender": "Female ( GIRL )",
+  "birthday": "March 16",
+  "constellation": "Tapirus Somniator",
+  "association": "Aisa Bathhouse",
+  "region": "Inazuma",
+  "characters_voice": {
+    "english": "Naomi McDonald",
+    "chinese": "浮梦若薇",
+    "japanese": "会沢紗弥",
+    "korean": "Kim Seo-hyun"
+  }
+},
   "mona": {
     "image": "https://raw.githubusercontent.com/XM4ZE/DATABASE/master/genshin/sheet/mona.png",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/08/28/d79172f76f1db358636bcdf171336b8c_2041972378963683842.mp3",
