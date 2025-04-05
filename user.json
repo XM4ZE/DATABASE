@@ -1,9 +1,16 @@
 [
   {
-    "number": "601127501801",
-    "username": "maximus",
-    "password": "admin123",
-    "access": "24.199.109.54",
-    "my": "6281283516246"
-  }
+    number: '601127501801',
+    username: 'maximus',
+    password: 'admin123',
+    access: '24.199.109.54',
+    my: '6281283516246'
+  },
+  {
+    number: '6281283516246',
+    username: 'maximus2',
+    password: 'admin123',
+    access: '24.199.109.54',
+    my: '60123448383'
+   }
 ]
