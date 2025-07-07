@@ -7,7 +7,7 @@ process.env.TZ = 'Asia/Jakarta';
 function start(cmd) {
     try {
         // ANSI codes untuk warna
-        const colorPrompt = '\\[\\033[1;36m\\]XMPANEL@user\\[\\033[0m\\]:\\w\\$ ';
+        const colorPrompt = '\\[\\033[1;36m\\]XMPanels@users\\[\\033[0m\\]:\\w\\$ ';
 
         const childProcess = spawn(cmd, ['-c', `
             export USER="XMPANEL";
