@@ -2,17 +2,17 @@ const { spawn } = require('child_process');
 process.env.TZ = 'Asia/Jakarta';
 
 /**
- * Start bash with custom username replacing "I have no name"
- * @param {string} cmd
+ * Replace "I have no name!" with custom username (XMPANELS)
  */
 function start(cmd) {
     try {
-        const childProcess = spawn(cmd, [], {
-            stdio: 'inherit',
-            env: {
-                ...process.env,
-                USER: 'XMPANELS' // Override username
-            }
+        const childProcess = spawn(cmd, ['-c', `
+            export USER="XMPANELS";
+            export HOME="/home/container";
+            export PS1="XMPANELS@\\h:\\w\\$ ";
+            bash --noprofile --norc
+        `], {
+            stdio: 'inherit'
         });
 
         childProcess.on('error', (error) => {
