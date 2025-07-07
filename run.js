@@ -1,20 +1,26 @@
-const { spawn } = require('child_process')
-const cp = require('child_process')
-// const chalk = require('chalk')
-const { promisify } = require('util')
-const exec = promisify(cp.exec).bind(cp)
+const { spawn } = require('child_process');
+process.env.TZ = 'Asia/Jakarta';
 
-
+/**
+ * Start bash with custom username replacing "I have no name"
+ * @param {string} cmd
+ */
 function start(cmd) {
-	return spawn(cmd, [], {
-		stdio: ['inherit', 'inherit', 'inherit', 'ipc']
-	})
+    try {
+        const childProcess = spawn(cmd, [], {
+            stdio: 'inherit',
+            env: {
+                ...process.env,
+                USER: 'XMPANELS' // Override username
+            }
+        });
+
+        childProcess.on('error', (error) => {
+            console.error('Error starting process:', error.message);
+        });
+    } catch (error) {
+        console.error('Error:', error.message);
+    }
 }
 
-//start('clear')
-
-// start('screenfetch')
-
-start('bash')
-
-console.log('Panel Siap Dipakai Ketikan Perintah Anda')
+start('bash');
